@@ -13,7 +13,7 @@ Retail forecasting is a critical aspect of business strategy, enabling better de
 ## Data Sources
 
 - The **full source dataset** for this project is available on Kaggle: [Acquire Valued Shoppers Challenge](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data).
-- The **preprocessed transaction data for store chain 2** is available as store_2_preprocessed_transactions.csv in this repository.
+- The **preprocessed transaction data for store chain 2** is available as Data/store_2_preprocessed_transactions.csv in this repository.
 
 ---
 
